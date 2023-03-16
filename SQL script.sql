@@ -110,7 +110,7 @@ alter table dado_cliente engine = MyISAM;
     `data do primeiro cashout` date,
     `data do ultimo cashout` date,
     `data do primeiro pix cashin do cliente` date,
-	`data do ultimo pix cashin do cliente` date,
+    `data do ultimo pix cashin do cliente` date,
     `data do primeiro pix cashout do cliente` date,
     `data do ultimo pix cashout do cliente` date,
     `data de inicio do onboarding` date,
